@@ -18,3 +18,11 @@ main()
     scanf("%d%d",&a,&b);
     c=a+b;
     printf("\n addioton c=",c);
+  }
+  void sub()
+  {
+    int a,b,c;
+    printf("\n enter the two no");
+    scanf("%d%d",&a,&b);
+    c=a-b;
+    printf("\n sub=",c);
